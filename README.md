@@ -6,7 +6,7 @@
 - Not yet support `English`
 - Not yet `Responsive Web`
 
-## Result
+## Console
 
 ```javascript
 {fullname: "yourname", email: "email@domain.com", password: "password", password_confirmation: "password", province: "city", …}
