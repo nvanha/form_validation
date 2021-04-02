@@ -2,9 +2,11 @@
 
 ## Introduce
 
-- Site is built from `HTML, CSS, JavaScript, MySql, PHP`, not `Framework`
-- Not yet support `English`
-- Not yet `Responsive Web`
+- Data validation is the process of ensuring that user input is clean, correct, and useful.
+- Typical validation tasks are:
+    . Has the user filled in all required fields?
+    . Has the user entered a valid date?
+    . Has the user entered text in a numeric field?
 
 ## Console
 
