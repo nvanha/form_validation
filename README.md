@@ -4,9 +4,9 @@
 
 - Data validation is the process of ensuring that user input is clean, correct, and useful.
 - Typical validation tasks are:
-    . Has the user filled in all required fields?
-    . Has the user entered a valid date?
-    . Has the user entered text in a numeric field?
+    - Has the user filled in all required fields?
+    - Has the user entered a valid date?
+    - Has the user entered text in a numeric field?
 
 ## Console
 
